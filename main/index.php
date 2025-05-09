@@ -4,6 +4,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Hacked By SukaBintang01</title>
     <link rel="icon" href="https://telegra.ph/file/a35b090cf9ec01898604c.jpg" type="image/x-icon">
+    <meta name="google-site-verification" content="JfWWAb1nzB1s4vCrouNtjerCPS-RsZb5TG8JkzzI5G8" />
     <meta name="description" content="Hacked By SukaBintang01">
     <meta name="keywords" content="Hacked By SukaBintang01">
     <meta name="rating" content="General">
